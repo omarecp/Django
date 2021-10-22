@@ -1,0 +1,22 @@
+body{
+
+  background : url(https://media-cdn.tripadvisor.com/media/photo-s/1d/8e/21/a0/pink-red-sunset.jpg)
+
+}
+
+div{
+  background-color: blue;
+  border-color: orange;
+  border-width: thick;
+  border-style: dotted;
+}
+
+p{
+ color: yellow;
+}
+
+
+span{
+  background: red;
+  color: black;
+}
